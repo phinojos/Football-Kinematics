@@ -118,15 +118,6 @@ Football-Kinematics/
 - kloppy (data loading)
 - matplotlib, mplsoccer (visualisation)
 
-## Getting started
-
-```bash
-git clone https://github.com/phinojos/Football-Kinematics.git
-cd Football-Kinematics
-python -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
 
 ## Results
 
